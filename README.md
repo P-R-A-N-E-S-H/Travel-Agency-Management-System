@@ -6,7 +6,7 @@ A web-based **Travel Agency Management System** designed to simplify travel pack
 
 ## 📖 Project Overview
 
-The Travel Agency Management System is developed to automate the traditional travel booking process. It allows users to browse available travel packages, check package details, make reservations, and manage their bookings online. The admin panel enables travel agencies to manage packages, customers, bookings, and payments efficiently.
+The TraveL Agency Management System is developed to automate the traditional travel booking process. It allows users to browse available travel packages, check package details, make reservations, and manage their bookings online. The admin panel enables travel agencies to manage packages, customers, bookings, and payments efficiently.
 
 ---
 
