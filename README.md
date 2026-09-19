@@ -1,6 +1,6 @@
 # 🌍 Travel Agency Management System
 
-A web-based **Travel Agency Management System** designed to simplify travel package booking, customer management, and tour administration. The system provides an easy-to-use interface for customers to explore destinations and make bookings, while administrators can efficiently manage travel packages, bookings, and customer information.
+A web-based **Travel Agency Management System** designed to simplify travel package booking, customer management, and tour administration. The system provides an easy-to-use interface for customers to explore destinations and make bookings, while administrators can efficiently manage travel packages, bookings, and customer information. 
 
 ---
 
